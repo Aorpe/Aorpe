@@ -1,6 +1,6 @@
 # 👋 Hello, moi c’est Orpé Akter !
 
-🎓 Étudiante en Bachelor Technologie & Management à l’ESILV  
+🎓 Étudiante en 2éme année Bachelor Technologie(Data) & Management à l’ESILV  
 📍 Actuellement en échange universitaire à Varna University of Management, Bulgarie  
 🔍 Je suis à la recherche d’un **stage ou alternance en data analysis** (2025 - 2026)  
 💡 Passionnée par l’analyse de données, j’adore transformer des chiffres en insights actionnables.
